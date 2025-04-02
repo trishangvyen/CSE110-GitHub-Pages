@@ -15,13 +15,13 @@ def register_mentor(register_data: MentorCreate, mentor_service: MentorService =
 My LinkedIn page can be found [here](www.linkedin.com/in/trisha-nguyen-658538202)
 
 ## Other Things
-If you're looking for my code or LinkedIn, you can find it in the section [above](#my-code)
-The readme file can be found right [here](README.md)
+If you're looking for my code or LinkedIn, you can find it in the section [above](#my-code)\
+The readme file can be found right [here](README.md)\
 Some of my hobbies are:
 - Gaming
 - Going out
 - Raving and concerts
-- Eating good food and drinks
+- Eating good food and drinks\
 The top 3 concerts/raves I've been to are:
 1. NCT Dream TDS2
 2. Escape Halloween 2024
